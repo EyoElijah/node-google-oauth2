@@ -1,6 +1,7 @@
 ## node with google oauth2
 
-This is a simple crud application with authenication and authorization with google oauth2 enabled for signin
+This is a simple crud application with authentication and authorization with google oauth2 enabled for signin
+
 ## Requirements
 
 For development, you will need Node.js, MongoDb, Yarn or NPM installed in your development machine
