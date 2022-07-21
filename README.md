@@ -25,7 +25,7 @@ cd node-google-oauth2
 rm -rf .git && git init && npm init
 
 # Install dependencies using Yarn
-yarn
+yarn or npm
 
 # To run
 yarn start or npm start
